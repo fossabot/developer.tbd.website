@@ -15,6 +15,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mikebolt",
+      "name": "Michael Casebolt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2136767?v=4",
+      "profile": "https://github.com/mikebolt",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
